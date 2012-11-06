@@ -21,13 +21,16 @@
 
     </ul>
   </li>
+</ul>
+            <ul class="nav">
+
   <li class="dropdown">
     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
       Charts
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
-      <li><a href="rehab.php">View rehabilitation rate data </a></li>
+        <li><a href="rehab.php">View rehabilitation rate data </a></li>
         <li><a href="trans_data.php">View transition data </a></li>
         <li><a href="crp.php">View CRP data </a></li>
         <li><a href="cd.php">View collaboration data </a></li>
@@ -35,6 +38,8 @@
 
     </ul>
   </li>
+</ul>
+<ul class="nav">
                     <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact</a></li>
             </ul>

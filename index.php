@@ -8,7 +8,7 @@
 
 
 <!-- Button to trigger modal -->
-<a href="#myModal" role="button" class="btn" data-toggle="modal">    <img src="files/Survey_Respondents_Map_3.0.png" alt="survey respondents map" class="th" />
+<a href="#myModal" role="button" class="btn" data-toggle="modal">    <img src="files/Scope_of_Research_Map.png" alt="survey respondents map" class="th" />
 <br />click image to open</a>
  
 <!-- Modal -->
@@ -17,7 +17,7 @@
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
   </div>
   <div class="modal-body">
-    <img src="files/Survey_Respondents_Map_3.0.png" alt="survey respondents map"  />
+    <img src="files/Scope_of_Research_Map.png" alt="survey respondents map"  />
   </div>
   
 </div>
