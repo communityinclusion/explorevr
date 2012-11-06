@@ -1,0 +1,71 @@
+img {
+     max-width: 100%;
+}
+body {margin-top: 20px;}
+
+.th {height:150px; width:200px;}
+.left {float:right; padding:5px; margin-left: 20px; text-align: center; background-color: white; -moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */}
+ul li {color:black;}
+
+.navbar-inner{font-weight: bold; }
+ 
+.modal-body {
+    max-height: 600px;
+}
+ .bigModal{
+   width:900px;
+   height: 700px;
+   margin-left:-470px;
+   margin-top: -350px;
+}
+
+#mapper{max-height:400px; overflow: auto; }
+
+.rounders{	
+padding:.5em;
+	border: 1px solid #ddd;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;}
+​
+ ul.legend {
+        background: #FFF;
+        padding: 10px;
+        margin: 5px;
+        
+        
+      }
+
+      .boxer {
+        border: 1px solid;
+        height: 12px;
+        width: 12px;
+        margin-right: 3px;
+        float:left;
+        display:block;
+      }
+      ul.legend  {list-style-type: none;}
+       ul.legend li {float:left; padding-right:2em;}
+
+      .red {
+        background: #C00;
+      }
+
+      .yellow {
+        background: #FF3;
+      }
+
+      .green {
+        background: #6F0;
+      }
+
+      .blue {
+        background: #06C;
+      }
+
+      .purple {
+        background: #63C;
+      }
