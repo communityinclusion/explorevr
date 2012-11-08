@@ -7,7 +7,7 @@
 <p>Each tab in the graphic below represents one type of agency with which VR agencies report collaboration.</p>
 
 <p>Click through each tab to see the distribution of collaboration across the United States and its territories. Click on an individual state to learn more information.</p>
-<p>Source: the 2011 National Survey of State Vocational Rehabilitation Agencies</p>
+
 
 <p><em>Note: The 2011 National Survey of State Vocational Rehabilitation Agencies asked respondents about collaboration in terms of “your state VR agency’s relationship with other local and state agencies in terms of coordinating service delivery; sharing space, funding for programs and customers, staff and data; and managing Community Rehabilitation Provider (CRP) and vendor relations.”</em></p>
 <div class="alert info">
@@ -45,7 +45,7 @@
          
 </div>
 <p><em>*Please zoom out to view data for Alaska, Hawaii and the territories</em></p>
-
+<p>Source: The 2011 National Survey of State Vocational Rehabilitation Agencies</p>
 <button type="button" class="btn " data-toggle="collapse" data-target="#demo">
   View Data
 </button>

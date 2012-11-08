@@ -24,6 +24,7 @@
 
 <p><strong>Double-click an area to zoom in</strong></p>
 <p><em>*Please zoom out to view data for Alaska, Hawaii and the territories</em></p>
+<p>Source: The 2011 National Survey of State Vocational Rehabilitation Agencies</p>
 <button type="button" class="btn " data-toggle="collapse" data-target="#demo">
   View Data
 </button>

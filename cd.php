@@ -4,7 +4,7 @@
 		
 <h1>VR Agency Collaboration with IDD, MH and Welfare / TANF Agencies
 </h1>
-<p>The charts below illustrate 10 different areas of partnership between VR Agencies and IDD, MH and Welfare / TANF Agencies. The 10 areas of collaboration include:</p>
+<p>The charts below illustrate 10 different areas of collaboration between VR Agencies and Intellectual and Developmental Disabilities (IDD), Mental Health (MH) and Welfare / Temporary Assistance for Needy Families (TANF) Agencies. The 10 areas of collaboration include:</p>
 
 <ul>
 <li>Formally coordinate service delivery</li>
@@ -23,8 +23,9 @@
 <p>Sources: The 2011 National Survey of State Vocational Rehabilitation Agencies, The 2011 Survey of Mental Health Agencies, The 2011 Survey of State Welfare Agencies</p>
 <h2>VR/IDD Partnerships</h2>
 <h3>Level of Collaboration between VR and IDD Agencies, as Reported by VR Agencies. </h3>
-<p>Note: we do not have data from state IDD agencies to use as a comparison.</p>
+<p><em>Note: We do not have data from state IDD agencies to use as a comparison.</em></p>
 <div><iframe width="760px" title="Column Chart: VR/IDD Partnerships - APSE" height="646px" src="https://opendata.socrata.com/w/vpcc-h6ia/y34g-bnf3?cur=pJujUa8nsZs&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Column-Chart-VR-IDD-Partnerships-APSE/vpcc-h6ia" title="Column Chart: VR/IDD Partnerships - APSE" target="_blank">Column Chart: VR/IDD Partnerships - APSE</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+<p>Source: The 2011 National Survey of State Vocational Rehabilitation Agencies</p>
 <h3>Rehabilitation Rates for VR Agencies Reporting Collaboration with IDD in Three or More Areas</h3>
 <div><iframe width="760px" title="Column Chart: Rehabilitation Rates for Agencies Reporting Collaboration with IDD in 3 or More Areas" height="646px" src="https://opendata.socrata.com/w/ctsz-c6i9/y34g-bnf3?cur=YQwX6ge3_Je&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Column-Chart-Rehabilitation-Rates-for-Agencies-Rep/ctsz-c6i9" title="Column Chart: Rehabilitation Rates for Agencies Reporting Collaboration with IDD in 3 or More Areas" target="_blank">Rehabilitation Rates for VR Agencies Reporting Collaboration with IDD in three or More Areas</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
 
