@@ -17,7 +17,7 @@
 <li>No color = No response</li>
 </ul></div>
 
-<div class="rounders">
+<div class="rounders map_container">
 <div class="navbar">
   <div class="navbar-inner">
    
