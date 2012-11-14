@@ -2,8 +2,8 @@
 
 <article>
 		
-<h3>Rehabilitation Rates for All Case Closures and Special Populations by Type of Parent Agency (DSA)</h3>
-<p>The charts below illustrates the rehabilitation rates for all case closures as well as for four populations served by VR agencies by type of parent agency. Specifically, rehabilitation rates for the following populations are included:</p>
+<h3>Rehabilitation Rates for all Individuals Exiting VR After Receiving Services and Special Populations by Type of Parent Agency (DSA)</h3>
+<p>In the 2011 National Survey of State Vocational Rehabilitation Agencies we asked VR agencies to report where they are located within the government structure of their state—their Designated State Agency (DSA) or “parent agency.” Based on survey responses to this question we categorized VR agencies into 1 of 5 categories: Labor / Workforce, Independent (they do not have a parent agency), Human/Social Services, Education, or Other. We paired this data with RSA-911 rehabilitation rate data to analyze rehabilitation rates based on parent agency. Rehabilitation rate is the ratio of successful closures (Status 26) relative to the sum of successful closures and people not rehabilitated with an IPE (Status 28). We created two charts, one for general and combined agencies and one for blind agencies. Rehabilitation rates for the following population groups are specifically included:</p>
 <ul>
 <li>Rehabilitation Rate for all case closures [Status 26/(Status 26 +Status 28)] </li>
 <li>Transition age people (14 to 24)</li>
