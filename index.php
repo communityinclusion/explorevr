@@ -36,7 +36,7 @@
                      <h2>Explore 
                       Maps</h2>
           <p>Explore sets of data using our Google Maps-powered overlay tools and Socrata mapping tools.</p>
-          <p><a class="btn" href="parent_agency.php">View parent agency/structure data &raquo;</a></p>
+          <p><a class="btn" href="parent_agency.php">View parent agency/location data &raquo;</a></p>
           <p><a class="btn" href="collab_nov.php">View collaboration data &raquo;</a></p>
 
                 </div>

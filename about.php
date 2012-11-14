@@ -8,7 +8,7 @@
 
 <h2>Uses of Explore VR</h2>
 <p>VR counselors can use the data portal to get information about other public employment services in their state.
-VR staff can use Explore VR to compare their agency to other similarly structured VR agencies with respect to employment outcomes, agency partnerships, state demographics, and other data points, these results can ultimately be incorporated into their planning efforts.</p>
+VR staff can use Explore VR to compare their agency to other similarly structured VR agencies with respect to employment outcomes, agency partnerships, state demographics and other data points. Ultimately, they can use these results for their planning efforts.</p>
 
 <h2>VR-RRTC</h2>
 <p>Explore VR is part of the Vocational Rehabilitation Research and Training Center (VR-RRTC) at the Institute for Community Inclusion at UMass Boston (<a href="http://communityinclusion.org">www.communityinclusion.org</a>). The VR-RRTC is a national center that builds the capacity of the public VR program to improve employment outcomes for people with disabilities. The VR-RRTC is funded by the National Institute on Disability and Rehabilitation Research (NIDRR) and the Rehabilitation Services Administration (RSA) of the US Department of Education. Visit the VR-RRTC website (<a href="http://www.vr-rrtc.org">www.vr-rrtc.org</a>) for more information about the center’s policy research, training, and technical assistance efforts.</p>
