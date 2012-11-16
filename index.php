@@ -26,7 +26,7 @@
 
         <h1>We have data.</h1>
 
-     <p>Explore VR is a web application that provides state vocational rehabilitation (VR) agencies easy and convenient access to a range of VR and related data for planning, evaluation, and decision-making. Overall, this data-sharing effort seeks to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories.</p>
+     <p>ExploreVR is a web application that provides state vocational rehabilitation (VR) agencies easy and convenient access to a range of VR and related data for planning, evaluation, and decision-making. Overall, this data-sharing effort seeks to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories.</p>
         <p><a class="btn primary large" href="about.php">Learn more &raquo;</a></p>
             </div>
 
@@ -36,7 +36,7 @@
                      <h2>Explore 
                       Maps</h2>
           <p>Explore sets of data using our Google Maps-powered overlay tools and Socrata mapping tools.</p>
-          <p><a class="btn" href="parent_agency.php">View parent agency/structure data &raquo;</a></p>
+          <p><a class="btn" href="parent_agency.php">View parent agency/location data &raquo;</a></p>
           <p><a class="btn" href="collab_nov.php">View collaboration data &raquo;</a></p>
 
                 </div>

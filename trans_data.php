@@ -16,8 +16,8 @@
 <p>Clicking on the legend will allow you to manipulate the chart to only see data relevant to your needs or interests.</p>
 
 
- <h3>Rehabilitation Rate of Transition Age Youth by Area of Collaboration Between VR and Primary & Secondary Education (General / Combined Agencies)</h3>
-<div><iframe width="760px" title="Chart: Rehabilitation Rate of Transition Age Youth by Area of Collaboration between VR and Primary & Secondary Ed (General / Combined Agencies)" height="646px" src="https://opendata.socrata.com/w/9hiq-we39/y34g-bnf3?cur=LYdGc1NQF87&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Chart-Rehabilitation-Rate-of-Transition-Age-Youth-/9hiq-we39" title="Chart: Rehabilitation Rate of Transition Age Youth by Area of Collaboration between VR and Primary & Secondary Ed (General / Combined Agencies)" target="_blank">Chart: Rehabilitation Rate of Transition Age Youth by Area of Collaboration between VR and Primary & Secondary Ed (General / Combined Agencies)</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+ <h3>Rehabilitation Rate of Transition Age Youth by Disability Category</h3>
+<div><iframe width="760px" title="Chart: Rehabilitation Rates for Transition Age Youth by Disability Category" height="646px" src="https://opendata.socrata.com/w/76gq-n39p/y34g-bnf3?cur=JfWpfFt0QB3&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Chart-Rehabilitation-Rates-for-Transition-Age-Yout/76gq-n39p" title="Chart: Rehabilitation Rates for Transition Age Youth by Disability Category" target="_blank">Chart: Rehabilitation Rates for Transition Age Youth by Disability Category</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
 <p>Sources: The 2011 National Survey of State Vocational Rehabilitation Agencies; RSA-911 FY2010</p>
 </article>
 <?php include_once "after.php"; ?>

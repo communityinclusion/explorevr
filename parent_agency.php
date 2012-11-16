@@ -1,5 +1,5 @@
 <?php include_once "before.php"; ?>
-<h2>AGENCY STRUCTURE</h2>
+<h2>AGENCY LOCATION</h2>
 
 
 
