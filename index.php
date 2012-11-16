@@ -26,7 +26,7 @@
 
         <h1>We have data.</h1>
 
-     <p>Explore VR is a web application that provides state vocational rehabilitation (VR) agencies easy and convenient access to a range of VR and related data for planning, evaluation, and decision-making. Overall, this data-sharing effort seeks to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories.</p>
+     <p>ExploreVR is a web application that provides state vocational rehabilitation (VR) agencies easy and convenient access to a range of VR and related data for planning, evaluation, and decision-making. Overall, this data-sharing effort seeks to increase knowledge about the public VR program and its role within the larger employment and disability service system within and across states and territories.</p>
         <p><a class="btn primary large" href="about.php">Learn more &raquo;</a></p>
             </div>
 

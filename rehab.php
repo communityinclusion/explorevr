@@ -23,6 +23,9 @@
 <div><iframe width="760px" title="Chart: Rehabilitation Rates by Agency Structure (Blind Agencies)" height="646px" src="https://opendata.socrata.com/w/vwyt-kbni/y34g-bnf3?cur=jZFyFr5XZ_n&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/Government/Chart-Rehabilitation-Rates-by-Agency-Structure-Bli/vwyt-kbni" title="Chart: Rehabilitation Rates by Agency Structure (Blind Agencies)" target="_blank">Chart: Rehabilitation Rates by Agency Structure (Blind Agencies)</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
 <p>Sources: The 2011 National Survey of State Vocational Rehabilitation Agencies; RSA-911 FY2010</p>
 
+<h3>Rehabilitation Rates by RSA Disability Category</h3>
+<div><iframe width="760px" title="Chart: Rehabilitation Rate by RSA Disability Category (General / Combined Agencies)" height="646px" src="https://opendata.socrata.com/w/3ggm-6fg4/y34g-bnf3?cur=IQXOrUeYPQ9&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Chart-Rehabilitation-Rate-by-RSA-Disability-Catego/3ggm-6fg4" title="Chart: Rehabilitation Rate by RSA Disability Category (General / Combined Agencies)" target="_blank">Chart: Rehabilitation Rate by RSA Disability Category (General / Combined Agencies)</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
+<p>Srouce: RSA-911 FY2011</p>
 
 		</article>
 <?php include_once "after.php"; ?>
