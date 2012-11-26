@@ -50,7 +50,8 @@
                </div>
                 <div class="span4">
                    <h2>Explore Findings</h2>
-           <p><a class="btn" href="review_vr.php">Business Employment Relations Specialists &raquo;</a></p>
+                   <p>Explore our monthly issue of <em>Review VR</em>, which will provide a snapshot and analysis of VR data in an accessible format.</p>
+           <p><a class="btn" href="review_vr.php">Business Employment Representatives &raquo;</a></p>
                 </div>
             </div>
 
