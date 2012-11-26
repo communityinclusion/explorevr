@@ -69,7 +69,7 @@ continuing examination.</p>
 <table class="table table-striped table-bordered table-hover">
 	<thead>
 		<tr>
-			<th>State</th><th>Agency</th><th>Total Number of BERs</th><th>Total Number of Counseling Staff</th><th>% of BERs to Counseling Staff</th><th>Total Number of Clients at VR agency</th><th># of BERs per 1000 in VR Agency</th>
+			<th>State</th><th>Agency</th><th>Total Number of BERs</th><th>Total Number of Counseling Staff<sup>1</sup></th><th>% of BERs to Counseling Staff</th><th>Total Number of Clients at VR agency<sup>2</sup></th><th># of BERs per 1000 in VR Agency</th>
 		</tr>
 	</thead>
 	<tbody>
