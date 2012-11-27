@@ -14,7 +14,7 @@
           <li>2011 National Survey of State Vocational Rehabilitation Agencies (<a href="files/VRSurvey_ExploreVR.xlsx">Excel</a>, <a href="files/VRSurvey_ExploreVR.csv">CSV</a>)</li>
           <li><a href="files/Welfare_datadictionary_5.0.pdf">Welfare Data Dictionary</a></li>
           <li>The 2011 Survey of State Welfare Agencies (<a href="files/Welfare_Survey_ExploreVR.xlsx">Excel</a>, <a href="files/Welfare_Survey_ExploreVR.csv">CSV</a>)</li>
-          
+          <li><a href="files/ExploreVR_TAY.pdf">The Rehabilitation Rates for General and Combined VR Agencies</a> (pdf) -updated 11/15 </li>
           </ul>
 </article>
 
