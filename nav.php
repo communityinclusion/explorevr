@@ -40,6 +40,7 @@
   </li>
 </ul>
 <ul class="nav">
+                    <li><a href="review_vr.php">Findings</a></li>
                     <li><a href="downloads.php">Downloads</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact</a></li>
