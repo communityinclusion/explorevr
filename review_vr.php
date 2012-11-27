@@ -60,6 +60,7 @@ understand promising VR agency staffing procedures
 promoting the employment of people with disabilities,
 research on BERs is a fruitful and important avenue for
 continuing examination.</p>
+<h3>Figure 1. BER staffing within VR Agencies</h3>
 <div><iframe width="760px" title="Chart: Number of BERs" height="646px" src="https://opendata.socrata.com/w/i7sx-ivip/y34g-bnf3?cur=gpRdJqqyF_a&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Chart-Number-of-BERs/i7sx-ivip" title="Chart: Number of BERs" target="_blank">Chart: Number of BERs</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
 
 
