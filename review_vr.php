@@ -18,6 +18,8 @@ Rehabilitation Agencies</h2>
 
 <p>By: Elizabeth Porter, Ngai Kwan, Joe Marrone, & Susan Foley</p>
 
+<p class="alert alert-info"><a href="files/review_vr/ReviewVR_1.pdf"><i class="icon-circle-arrow-down"></i> Download the PDF of this issue</a></p>
+
 <p>Many vocational rehabilitation (VR) agencies
 hire business employment representatives
 (BERs) to foster relationships between the
