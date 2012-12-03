@@ -57,7 +57,8 @@ continuing examination.</p>
 
 <h3>Table 1. BER staffing at VR agencies</h3>
 
-<p><a href="https://docs.google.com/spreadsheet/ccc?key=0AtaUB3W96pkFdGE4MDJPSzF3ckZYVzBjM1hJQ000amc">View and download this dataset</a></p>
+<p><a href="https://docs.google.com/spreadsheet/ccc?key=0AtaUB3W96pkFdGE4MDJPSzF3ckZYVzBjM1hJQ000amc">View and download this dataset</a> (to download, choose File -> Download as...)<br />
+<em>The data online is an elaboration of the data that appears in the PDF</em></p>
 <table class="table table-striped table-bordered table-hover">
 	<thead>
 		<tr>
@@ -313,13 +314,13 @@ continuing examination.</p>
 <p><sup>2</sup>Total Number of clients = Total number of individuals eligible at the end of the fiscal year(RSA113: line A11+A12+A13+A14)+ Total Individual
 Served (RSA113: line C1+D1+D2) (Data Source: RSA113 FY2010)</p>
 
-<p class="muted">Review VR is a publication of ExploreVR, funded in part by the National
+<p class=""> <em>Review VR is a publication of ExploreVR, funded in part by the National
 Institute on Disability and Rehabilitation Research (NIDRR) and the
 Rehabilitation Services Administration (RSA) of the US Department of
 Education, Grant # H133B070001 and Grant # H133B120002. ExploreVR is the
 data hub for a group of vocational rehabilitation research projects at the
 Institute for Community Inclusion at the University of Massachusetts
-Boston.</p>
+Boston.</em></p>
 
 
 <?php include_once "after.php"; ?>
