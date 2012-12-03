@@ -72,7 +72,7 @@ continuing examination.</p>
 			<td>Alaska</td><td>Combined</td><td>--</td><td>77</td><td>--</td><td>4492</td><td>--</td>
 		</tr>
 		<tr>
-			<td>American Samoa</td><td>Combined</td><td>0</td><td>13</td><td>0%</td><td>564</td><td>0</td>
+			<td>American Samoa</td><td>Combined</td><td>0</td><td>13</td><td>0.0%</td><td>564</td><td>0.0</td>
 		</tr>
 		<tr>
 			<td>Arizona</td><td>Combined</td><td>--</td><td>303</td><td>--</td><td>15484</td><td>--</td>
@@ -84,7 +84,7 @@ continuing examination.</p>
 			<td>Arkansas</td><td>Blind</td><td>--</td><td>45</td><td>--</td><td>1708</td><td>--</td>
 		</tr>
 		<tr>
-			<td>California</td><td>Combined</td><td>0</td><td>1314</td><td>0%/td><td>113099</td><td>0</td>
+			<td>California</td><td>Combined</td><td>0</td><td>1314</td><td>0.0%</td><td>113099</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Colorado</td><td>Combined</td><td>15</td><td>193</td><td>7.8%</td><td>19016</td><td>0.79</td>
@@ -93,10 +93,10 @@ continuing examination.</p>
 			<td>Connecticut</td><td>General</td><td>10</td><td>124</td><td>8.1%</td><td>8428</td><td>1.19</td>
 		</tr>
 		<tr>
-			<td>Connecticut</td><td>Blind</td><td>0</td><td>23</td><td>0%</td><td>1072</td><td>0</td>
+			<td>Connecticut</td><td>Blind</td><td>0</td><td>23</td><td>0.0%</td><td>1072</td><td>0</td>
 		</tr>
 		<tr>
-			<td>Delaware</td><td>General</td><td>0</td><td>55</td><td>0%</td><td>5240</td><td>0</td>
+			<td>Delaware</td><td>General</td><td>0</td><td>55</td><td>0.0%</td><td>5240</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Delaware</td><td>Blind</td><td>3</td><td>10</td><td>30%</td><td>252</td><td>11.9</td>
@@ -114,13 +114,13 @@ continuing examination.</p>
 			<td>Georgia</td><td>Combined</td><td>--</td><td>790</td><td>--</td><td>39200</td><td>--</td>
 		</tr>
 		<tr>
-			<td>Guam</td><td>Combined</td><td>0</td><td>17</td><td>0%</td><td>397</td><td>0</td>
+			<td>Guam</td><td>Combined</td><td>0</td><td>17</td><td>0.0%</td><td>397</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Hawaii</td><td>Combined</td><td>--</td><td>74</td><td>--</td><td>5609</td><td>--</td>
 		</tr>
 		<tr>
-			<td>Idaho</td><td>General</td><td>0</td><td>116</td><td>0%</td><td>15550</td><td>0</td>
+			<td>Idaho</td><td>General</td><td>0</td><td>116</td><td>0.0%</td><td>15550</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Idaho</td><td>Blind</td><td>--</td><td>29</td><td>--</td><td>514</td><td>--</td>
@@ -150,10 +150,10 @@ continuing examination.</p>
 			<td>Louisiana</td><td>Combined</td><td>8</td><td>268</td><td>3%</td><td>28520</td><td>0.28</td>
 		</tr>
 		<tr>
-			<td>Maine</td><td>General</td><td>0</td><td>105</td><td>0%</td><td>9227</td><td>0</td>
+			<td>Maine</td><td>General</td><td>0</td><td>105</td><td>0.0%</td><td>9227</td><td>0</td>
 		</tr>
 		<tr>
-			<td>Maine</td><td>Blind</td><td>0</td><td>26</td><td>0%</td><td>862</td><td>0</td>
+			<td>Maine</td><td>Blind</td><td>0</td><td>26</td><td>0.0%</td><td>862</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Maryland</td><td>Combined</td><td>3</td><td>331</td><td>0.9%</td><td>24364</td><td>0.12</td>
@@ -180,13 +180,13 @@ continuing examination.</p>
 			<td>Mississippi</td><td>Combined</td><td>10</td><td>488</td><td>2%</td><td>25090</td><td>0.4</td>
 		</tr>
 		<tr>
-			<td>Missouri</td><td>General</td><td>0</td><td>248</td><td>0%</td><td>40913</td><td>0</td>
+			<td>Missouri</td><td>General</td><td>0</td><td>248</td><td>0.0%</td><td>40913</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Missouri</td><td>Blind</td><td>2</td><td>73</td><td>2.7%</td><td>2291</td><td>0.87</td>
 		</tr>
 		<tr>
-			<td>Montana</td><td>Combined</td><td>0</td><td>77</td><td>0%</td><td>9037</td><td>0</td>
+			<td>Montana</td><td>Combined</td><td>0</td><td>77</td><td>0.0%</td><td>9037</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Nebraska</td><td>General</td><td>13</td><td>166</td><td>7.8%</td><td>12239</td><td>1.06</td>
@@ -195,7 +195,7 @@ continuing examination.</p>
 			<td>Nebraska</td><td>Blind</td><td>--</td><td>37</td><td>--</td><td>534</td><td>--</td>
 		</tr>
 		<tr>
-			<td>Nevada</td><td>Combined</td><td>0</td><td>97</td><td>0%</td><td>8478</td><td>0</td>
+			<td>Nevada</td><td>Combined</td><td>0</td><td>97</td><td>0.0%</td><td>8478</td><td>0</td>
 		</tr>
 		<tr>
 			<td>New Hampshire</td><td>Combined</td><td>3</td><td>72</td><td>4.2%</td><td>9321</td><td>0.32</td>
@@ -207,12 +207,12 @@ continuing examination.</p>
 			<td>New Jersey</td><td>Blind</td><td>8</td><td>77</td><td>10.4%</td><td>2037</td><td>3.93</td>
 		</tr>
 		<tr>
-			<td>New Mexico</td><td>General</td><td>0</td><td>133</td><td>0%</td><td>13327</td><td>0</td>
+			<td>New Mexico</td><td>General</td><td>0</td><td>133</td><td>0.0%</td><td>13327</td><td>0</td>
 		</tr>
 		<tr>
-			<td>New Mexico</td><td>Blind</td><td>0</td><td>42</td><td>0%</td><td>483</td><td>0</td>
+			<td>New Mexico</td><td>Blind</td><td>0</td><td>42</td><td>0.0%</td><td>483</td><td>0</td>
 		</tr>
-		tr>
+		<tr>
 			<td>New York</td><td>General</td><td>15</td><td>643</td><td>2.3%</td><td>116326</td><td>0.13</td>
 		</tr>
 		<tr>
@@ -231,7 +231,7 @@ continuing examination.</p>
 			<td>Northern Marianas</td><td>Combined</td><td>--</td><td>6</td><td>--</td><td>177</td><td>--</td>
 		</tr>
 		<tr>
-			<td>Ohio</td><td>Combined</td><td>0</td><td>399</td><td>0%</td><td>45067</td><td>0</td>
+			<td>Ohio</td><td>Combined</td><td>0</td><td>399</td><td>0.0%</td><td>45067</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Oklahoma</td><td>Combined</td><td>8</td><td>317</td><td>2.5%</td><td>25872</td><td>0.31</td>
@@ -258,7 +258,7 @@ continuing examination.</p>
 			<td>South Carolina</td><td>Blind</td><td>4</td><td>83</td><td>4.8%</td><td>1687</td><td>2.37</td>
 		</tr>
 		<tr>
-			<td>South Dakota</td><td>General</td><td>0</td><td>58</td><td>0%</td><td>5398</td><td>0</td>
+			<td>South Dakota</td><td>General</td><td>0</td><td>58</td><td>0.0%</td><td>5398</td><td>0</td>
 		</tr>
 		<tr>
 			<td>South Dakota</td><td>Blind</td><td>1</td><td>13</td><td>7.7%</td><td>616</td><td>1.62</td>
@@ -279,10 +279,10 @@ continuing examination.</p>
 			<td>Vermont</td><td>General</td><td>4</td><td>92</td><td>4.3%</td><td>12294</td><td>0.33</td>
 		</tr>
 		<tr>
-			<td>Vermont</td><td>Blind</td><td>0</td><td>9</td><td>0%</td><td>468</td><td>0</td>
+			<td>Vermont</td><td>Blind</td><td>0</td><td>9</td><td>0.0%</td><td>468</td><td>0</td>
 		</tr>
 		<tr>
-			<td>Virgin Islands</td><td>Combined</td><td>0</td><td>0</td><td>0%</td><td>887</td><td>0</td>
+			<td>Virgin Islands</td><td>Combined</td><td>0</td><td>0</td><td>0.0%</td><td>887</td><td>0</td>
 		</tr>
 		<tr>
 			<td>Virginia</td><td>General</td><td>29</td><td>489</td><td>5.9%</td><td>36747</td><td>0.79</td>
@@ -300,10 +300,10 @@ continuing examination.</p>
 			<td>West Virginia</td><td>Combined</td><td>10</td><td>237</td><td>4.2%</td><td>16213</td><td>0.62</td>
 		</tr>
 		<tr>
-			<td>Wisconsin</td><td>Combined</td><td>0</td><td>242</td><td>0%</td><td>43549</td><td>0</td>
+			<td>Wisconsin</td><td>Combined</td><td>0</td><td>242</td><td>0.0%</td><td>43549</td><td>0</td>
 		</tr>
 		<tr>
-			<td>Wyoming</td><td>Combined</td><td>0</td><td>53</td><td>0%</td><td>6087</td><td>0</td>
+			<td>Wyoming</td><td>Combined</td><td>0</td><td>53</td><td>0.0%</td><td>6087</td><td>0</td>
 		</tr>
 	</tbody>
 </table>
