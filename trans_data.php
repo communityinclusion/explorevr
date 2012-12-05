@@ -2,16 +2,19 @@
 
 <article>
 		<h2>Transition Age Youth</h2>
-<p>The chart below illustrates the average rehabilitation rate for transition age youth by the level of state VR agency collaboration with the state's primary and secondary education department.</p>
+<p>The chart below illustrates the average rehabilitation rate for transition age youth in each RSA disability category.</p>
 
-<p>Collaboration is possible in the following areas</p>
+<p>Rehabilitation rates are displayed for the following disability categories:</p>
 <ul>
-<li>Formal coordination of service delivery</li>
-<li>Formal coordination of supported employment extended services</li>
-<li>Sharing physical space</li>
-<li>Jointly funding programs</li>
-<li>Jointly funding customers</li>
-<li>Formally sharing data</li>
+<li>Visual</li>
+<li>Hearing</li>
+<li>Orthopedic</li>
+<li>Intellectual</li>
+<li>Substance Abuse</li>
+<li>Mental Health</li>
+<li>Learning</li>
+<li>Traumatic Brain Injury</li>
+<li>Other</li>
 </ul>
 <p>Clicking on the legend will allow you to manipulate the chart to only see data relevant to your needs or interests.</p>
 
