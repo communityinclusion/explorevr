@@ -13,7 +13,7 @@
 </ul>
 <p>Clicking on the legend will allow you to manipulate the chart to only see data relevant to your needs or interests.</p>
 
-<p><em>Note: Location data should not be used independently because of external factors (i.e. Order of Selection).</em></p>
+<p><em>Note: Location data should not be used independently because of external factors (e.g., Order of Selection).</em></p>
 
 <h3>Rehabilitation Rates by Agency Location (General / Combined Agencies)</h3>
 <div><iframe width="760px" title="Chart: Rehabilitation Rates by Agency Structure (General / Combined Agencies)" height="646px" src="https://opendata.socrata.com/w/kh7m-6wgn/y34g-bnf3?cur=tSidaRe18vV&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/Government/Chart-Rehabilitation-Rates-by-Agency-Structure-Gen/kh7m-6wgn" title="Chart: Rehabilitation Rates by Agency Structure (General / Combined Agencies)" target="_blank">Chart: Rehabilitation Rates by Agency Structure (General / Combined Agencies)</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
