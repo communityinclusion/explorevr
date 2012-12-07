@@ -2,6 +2,12 @@
 
 <h1>Review VR Issue 1, 2012</h1>
 <div class="hero-unit">
+	<span class="left">
+		<a href="files/review_vr/ReviewVR_1.pdf">
+	<img src="img/ReviewVR_1_.png"  />
+	<p>download the PDF</p>
+</a>
+</span>
 <h2>Welcome to Review VR!</h2>
 
 <p>The Review VR series is a product of ExploreVR.</p>
