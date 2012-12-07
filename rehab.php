@@ -14,7 +14,7 @@
 <p>Clicking on the legend will allow you to manipulate the chart to only see data relevant to your needs or interests.
 The first chart shows these rates for all general and combined VR agencies. The second chart shows these rates for all blind agencies. The third chart shows these rates for general/combined agencies that have merged since 2005</p>
 
-<p><em>Note: Structure data should not be used independently because of external factors (such as Order of Selection, etc.).</em></p>
+<p><em>Note: Location data should not be used independently because of external factors (e.g., Order of Selection).</em></p>
 <p>In the 2011 National Survey of State Vocational Rehabilitation Agencies we asked VR agencies to report where they are located within the government structure of their state—their Designated State Agency (DSA) or “parent agency.” Based on survey responses to this question we categorized VR agencies into 1 of 5 categories: Labor/Workforce, Independent (they do not have a parent agency), Human/Social Services, Education, or Other. We paired this data with RSA-911 rehabilitation rate data to analyze rehabilitation rates based on parent agency. Rehabilitation rate is the ratio of successful closures (Status 26) relative to the sum of successful closures and people not rehabilitated with an IPE [Status 26/(Status 26 + Status 28)]. We created two charts, one for general and combined agencies and one for blind agencies.</p>
 
 <h3>Rehabilitation Rates by Agency Structure (General / Combined Agencies)</h3>
