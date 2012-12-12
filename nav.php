@@ -30,10 +30,10 @@
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
-        <li><a href="rehab.php">View rehabilitation rate data </a></li>
-        <li><a href="trans_data.php">View transition data </a></li>
-        <li><a href="crp.php">View CRP data </a></li>
-        <li><a href="cd.php">View collaboration data </a></li>
+        <li><a href="rehab.php">Rehabilitation</a></li>
+        <li><a href="trans_data.php">Transition</a></li>
+        <li><a href="crp.php">CRPs</a></li>
+        <li><a href="cd.php">Partnerships</a></li>
 
 
     </ul>
