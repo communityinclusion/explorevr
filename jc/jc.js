@@ -1,4 +1,4 @@
-$('li > a').click(function() {
+$('.nav li > a').click(function() {
     $('li').removeClass();
     $(this).parent().addClass('active');
 });

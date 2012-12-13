@@ -21,8 +21,8 @@
 <div class="navbar">
   <div class="navbar-inner">
    
-    <ul id="map_nav" class="nav">
-      <li class="active"><a href="#map1" >IDD Agency</a></li>
+    <ul class="map_nav nav">
+      <li><a href="#map1" >IDD Agency</a></li>
 				<li><a href="#map2">MH Agency
 </a></li>
 				<li><a href="#map3"> Welfare / TANF Agency
