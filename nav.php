@@ -30,6 +30,7 @@
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
+      <li><a href="reallotment.php">Reallotment Data</a></li>
         <li><a href="rehab.php">Rehabilitation</a></li>
         <li><a href="trans_data.php">Transition</a></li>
         <li><a href="crp.php">CRPs</a></li>
