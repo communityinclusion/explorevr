@@ -7,7 +7,7 @@
 
 
 <ul>
-          <li>Fact Sheet - updaates 10/2012 (<a href="files/FactSheet_exploreVRlink.pdf">PDF</a>)</li>
+          <li>Fact Sheet - updated 10/2012 (<a href="files/FactSheet_exploreVRlink.pdf">PDF</a>)</li>
           <li>2011 Survey of State Mental Health Agencies (<a href="files/MH_Survey_ExploreVR.xlsx">Excel</a>, <a href="files/MH_Survey_ExploreVR.csv">CSV</a>)</li>
           <li>2011 Survey of State Mental Health Agencies Data Dictionary - updated 10/2012 (<a href="files/Data Dictionary_MH_6.0.pdf">PDF</a>)</li>
           <li>2011 National Survey of State Vocational Rehabilitation Agencies (<a href="files/VRSurvey_ExploreVR.xlsx">Excel</a>, <a href="files/VRSurvey_ExploreVR.csv">CSV</a>)</li>
