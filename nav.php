@@ -34,7 +34,7 @@
         <li><a href="rehab.php">Rehabilitation</a></li>
         <li><a href="trans_data.php">Transition</a></li>
         <li><a href="crp.php">CRPs</a></li>
-        <li><a href="cd.php">Partnerships</a></li>
+        <li><a href="cd.php">Collaboration</a></li>
 
 
     </ul>

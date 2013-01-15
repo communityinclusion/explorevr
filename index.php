@@ -43,6 +43,7 @@
                 <div class="span4">
                      <h2>Explore  Charts</h2>
            <p>Use Socrata Open Data tools to interact with our large data sets or simply download data in multiple formats to view in your own applications.</p>
+           <p><a class="btn" href="reallotment.php">View reallotment data &raquo;</a></p>
           <p><a class="btn" href="rehab.php">View rehabilitation rate data &raquo;</a></p>
         <p><a class="btn" href="trans_data.php">View transition data &raquo;</a></p>
         <p><a class="btn" href="crp.php">View CRP data &raquo;</a></p>
