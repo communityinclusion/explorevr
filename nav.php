@@ -44,7 +44,7 @@
                     <li><a href="downloads.php">Downloads</a></li>
                     <li><a href="about.php">About</a></li>
                     <li><a href="contact.php">Contact</a></li>
-                    <li><a href="blog/">Blog</a></li>
+                    <li><a href="http://explorevr.tumblr.com/">Blog</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
