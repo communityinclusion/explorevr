@@ -17,7 +17,7 @@ z7x0w7.display();
 
 			<h3>Or</h3>
 
-<h4>Contact <a href="mailto:Holly.Jacobs@umb.edu>">Holly Jacobs</a> with all questions regarding ExploreVR</h4>
+<h4>Contact <a href="mailto:Holly.Jacobs@umb.edu">Holly Jacobs</a> with all questions regarding ExploreVR</h4>
 
 
  
