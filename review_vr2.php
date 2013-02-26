@@ -23,7 +23,7 @@
 <h3>Figure 2. Primary decision maker for SVRAs where DSU is the same as DSA</h3>
 <div><iframe width="760px" title="Column chart: ReviewVR2, Figure 2" height="646px" src="https://opendata.socrata.com/w/grth-xtfu/y34g-bnf3?cur=aXeaY1Y_FgE&from=root" frameborder="0" scrolling="no"><a href="https://opendata.socrata.com/dataset/Column-chart-ReviewVR2-Figure-2/grth-xtfu" title="Column chart: ReviewVR2, Figure 2" target="_blank">Column chart: ReviewVR2, Figure 2</a></iframe><p><a href="http://www.socrata.com/" target="_blank">Powered by Socrata</a></p></div>
 
-<p>The above analysis is done using 2011 National Survey of State Vocational Rehabilitation Agencies (<a href="files/VRSurvey_ExploreVR.xlsx">Excel</a>, <a href="files/VRSurvey_ExploreVR.csv">CSV</a>) </p>
+<p class=""> <em>Source: 2011 National Survey of State Vocational Rehabilitation Agencies (<a href="files/VRSurvey_ExploreVR.xlsx">Excel</a>, <a href="files/VRSurvey_ExploreVR.csv">CSV</a>) </em></p>
 
 <p class=""> <em>Review VR is a publication of ExploreVR, funded in part by the National Institute on Disability and Rehabilitation Research (NIDRR) and the Rehabilitation Services Administration (RSA) of the US Department of Education, Grant # H133B070001 and Grant # H133B120002. ExploreVR is the data hub for a group of vocational rehabilitation research projects at the Institute for Community Inclusion at the University of Massachusetts Boston.</em></p>
 
