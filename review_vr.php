@@ -23,6 +23,10 @@ table linked to live data on ExploreVR.</p>
 <p>Authors: Elizabeth Porter, Dana Jefferson, Susan Foley, &amp; Ngai Kwan</p>
 
 <hr />
+
+<h3><a href="review_vr3.php">Funding Health-Related Vocational Rehabilitation Services: the Potential Impact of the Affordable Care Act</a></h3>
+<p>By Robert “Bobby” Silverstein</p>
+<hr />
 <p class=""> <em>Review VR is a publication of ExploreVR, funded in part by the National
 Institute on Disability and Rehabilitation Research (NIDRR) and the
 Rehabilitation Services Administration (RSA) of the US Department of
