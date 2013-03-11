@@ -2,7 +2,7 @@
 
 
 <h1>The Deciding Factor: Making Decisions on Management Information Systems and Data Use in State Vocational Rehabilitation Agencies</h1>
-<h2>Review VR Issue 2, 2012</h2>
+<h2>Review VR Issue 2, 2013</h2>
 
 <p>Authors: Elizabeth Porter, Dana Jefferson, Susan Foley, &amp; Ngai Kwan</p>
 
