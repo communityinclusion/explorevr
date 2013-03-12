@@ -54,7 +54,8 @@
                    <p>Explore our monthly issue of <em>Review VR</em>, which will provide a snapshot and analysis of VR data in an accessible format.</p>
            <p><a class="btn" href="review_vr1.php">Business Employment Representatives &raquo;</a></p>
 
-            <p><a class="btn" href="review_vr2.php">The Deciding Factor: MIS and Data Use in VR</a></p>         
+            <p><a class="btn" href="review_vr2.php">The Deciding Factor: MIS and Data Use in VR</a></p>   
+            <p><a class="btn" href="review_vr3.php">Funding the ACA</a></p>      
                 </div>
             </div>
 
