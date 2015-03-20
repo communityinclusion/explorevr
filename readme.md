@@ -36,3 +36,5 @@ Our code is publicly available on Github. Feel free to clone or fork it for your
 Wrap up
 
 So that is a rough overview of what we've got for you. We hope you use the site to explore all the great VR data we have or you. We will be adding and visualizing more datasets, as well as creating some data-rich publications that summarize and visualize some of our findings. Keep track of this space. Also, we encourage use our data and code to share and share alike, or just make or suggest improvements to what is here. Now go forth, explore and create!
+
+[![Join the chat at https://gitter.im/communityinclusion/explorevr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/communityinclusion/explorevr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
